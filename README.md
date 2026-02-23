@@ -40,18 +40,18 @@ The app supports creating, updating, editing, completing, and deleting todos wit
 ```text
 todo/
 ├── backend/
-│ └── todo-back/
-│ ├── src/
-│ ├── pom.xml
-│ └── mvnw
+│   └── todo-back/
+│       ├── src/
+│       ├── pom.xml
+│       └── mvnw
 │
 └── frontend/
-└── todo-ui/
-├── src/
-├── package.json
-└── vite.config.js
+    └── todo-ui/
+        ├── src/
+        ├── package.json
+        └── vite.config.js
 ├── README.md
-```
+
 
 ---
 
