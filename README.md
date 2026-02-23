@@ -37,7 +37,7 @@ The app supports creating, updating, editing, completing, and deleting todos wit
 ---
 
 ## 📂 Project Structure
-```text
+```
 todo/
 ├── backend/
 │   └── todo-back/
@@ -51,9 +51,7 @@ todo/
         ├── package.json
         └── vite.config.js
 ├── README.md
-
-
----
+```
 
 ## 🧪 Backend API Endpoints
 
@@ -64,7 +62,6 @@ todo/
 | PUT | `/api/todos/{id}` | Update a todo |
 | DELETE | `/api/todos/{id}` | Delete a todo |
 
----
 
 ## ▶️ Run Locally (Development)
 
