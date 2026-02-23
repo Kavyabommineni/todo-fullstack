@@ -76,7 +76,9 @@ cd backend/todo-back
 Backend runs at:
 http://localhost:8080
 
-2️⃣ Frontend
+
+**### 2️⃣ Frontend**
+
 cd frontend/todo-ui
 npm install
 npm run dev
