@@ -37,7 +37,7 @@ The app supports creating, updating, editing, completing, and deleting todos wit
 ---
 
 ## 📂 Project Structure
-
+```text
 todo/
 ├── backend/
 │ └── todo-back/
@@ -50,7 +50,7 @@ todo/
 ├── src/
 ├── package.json
 └── vite.config.js
-
+```
 
 ---
 
@@ -75,13 +75,18 @@ cd backend/todo-back
 
 Backend runs at:
 http://localhost:8080
+```
 
 2️⃣ Frontend
+```text
 cd frontend/todo-ui
 npm install
 npm run dev
 
 Frontend runs at:
 http://localhost:5173
+```
 🌐 CORS Configuration
+```
 @CrossOrigin(origins = "http://localhost:5173")
+```
